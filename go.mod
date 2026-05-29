@@ -1,4 +1,4 @@
-module github.com/gtsteffaniak/go-logger
+module github.com/Guitou1713/go-logger
 
 go 1.25.0
 
